@@ -65,7 +65,7 @@ The dataset contains more than **8500 records** representing sales across differ
 
 ## 📷 Dashboard Preview
 
-![Blinkit Dashboard](Dashboard-preview.png)
+![Blinkit Dashboard](Dashboard-preview.png.pdf)
 
 ---
 
